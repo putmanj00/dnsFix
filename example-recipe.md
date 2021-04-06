@@ -13,7 +13,7 @@ ingredients:
     - 1tsp vegetable oil
     - 2 Carrots, finely diced
     - 1 Onion, finely dices
-    - 1 Celery stick, finely diced
+    - 1 Celery stick, finely diced 
     - 2 Cloves of Garlic, crushed
     - 400g lean Minced Beef
     - 400g tin of Chopped Tomatoes
